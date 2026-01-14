@@ -1,7 +1,7 @@
 :root {
     --bg: #0f172a;
     --card-bg: #1e293b;
-    --accent: #38bdf8;
+    --accent: #ef4444;
     --text: #f8fafc;
 }
 
@@ -65,7 +65,7 @@ section { padding: 80px 10%; }
 .project:hover { transform: translateY(-10px); }
 
 .tech-tag {
-    background: #0ea5e9;
+    background: #ef4444;
     font-size: 0.8rem;
     padding: 3px 8px;
     border-radius: 4px;
